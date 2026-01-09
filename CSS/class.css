@@ -287,7 +287,7 @@ nav {
     height: 600px;
     margin-top: 120px;
     margin-left: 120px;
-    margin-right: 120px ;
+    margin-right: 120px;
 }
 
 .two {
@@ -342,4 +342,63 @@ ul li a {
 
     margin-top: 40px;
 
+}
+
+.semifinal {
+    font-family: "Inter", sans-serif;
+    width: 1360px;
+    height: 384px;
+    background-color: #F7F6F2;
+    text-align: center;
+    margin-top: 120px;
+    margin-left: 120px;
+    margin-right: 120px;
+}
+
+.match {
+    width: 1280px;
+    height: 112px;
+    margin-top: 80px;
+
+}
+
+.glass {
+    width: 1280px;
+    height: 48px;
+    font-family: "Inter", sans-serif;
+    font-weight: bold;
+    color: #001931;
+}
+
+.choto {
+    color: #627382;
+    font-family: "Inter", sans-serif;
+    font-weight: normal;
+}
+
+.switch {
+    margin-top: 24px;
+
+    width: 1280px;
+    height: 48px;
+    text-align: center;
+}
+
+.green {
+    background-color: #469165;
+    color: #FFFFFF;
+    font-family: "Inter", sans-serif;
+    width: 194px;
+    height: 52px;
+    border-radius: 4px;
+    padding: 16px 12px 16px 12px;
+}
+
+.red {
+    width: 1280px;
+    height: 20px;
+    font-family: "Inter", sans-serif;
+    color: #627382;
+    font-size: small;
+    padding-top: 10px;
 }
