@@ -280,3 +280,66 @@ nav {
 .noun {
     color: #627382;
 }
+
+.bodytwo {
+    display: flex;
+    width: 1360px;
+    height: 600px;
+    margin-top: 120px;
+    margin-left: 120px;
+    margin-right: 120px ;
+}
+
+.two {
+    width: 720px;
+    height: 396px;
+
+}
+
+.top {
+    width: 720px;
+    height: 20px;
+
+    font-family: "Inter", sans-serif;
+    color: #469165;
+    font-size: medium;
+}
+
+.big {
+    font-family: "Inter", sans-serif;
+    font-size: large;
+    font-weight: bold;
+    font-size: 48px;
+    width: 700px;
+    height: 116px;
+    color: #001931;
+
+    margin-top: 16px;
+}
+
+.para {
+    width: 700px;
+    height: 60px;
+    font-family: "Inter", sans-serif;
+
+    color: #627382;
+    font-weight: normal;
+}
+
+ul li {
+    list-style: none;
+}
+
+ul li a {
+    text-decoration: none;
+    color: #001931;
+}
+
+.list {
+    padding: 0;
+    width: 700px;
+    height: 128px;
+
+    margin-top: 40px;
+
+}
