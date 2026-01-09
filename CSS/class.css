@@ -402,3 +402,52 @@ ul li a {
     font-size: small;
     padding-top: 10px;
 }
+
+.final {
+    width: 1600px;
+    height: 348px;
+    background-color: #001931;
+
+
+
+}
+
+.lost {
+    display: flex;
+    width: 1360px;
+    height: 64px;
+    margin-top: 120px;
+    margin-left: 120px;
+    margin-right: 120px;
+    justify-content: space-between;
+}
+
+.done {
+    width: 20px
+}
+
+.circle-img {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+}
+
+.social {
+    width: 200px;
+    height: 64px;
+    border: #469165;
+    color: #FFFFFF;
+}
+
+.icon {
+    display: flex;
+    margin-right: 900px;
+
+}
+
+.close {
+    text-align: center;
+    margin-top: 80px;
+    font-family: "Inter", sans-serif;
+    color: #FAFAFA;
+}
